@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', 'Open Sans', 'Helvetica-Neue', 'Arial', sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.files {
+  margin-top: 24px;
+}
+
+.files-item {
+  align-items: center;
+  display: flex;
+  margin: 8px 0;
+}
+
+.icon {
+  margin-right: 8px;
+  
+  height: 16px;
+  width: 16px;
+}
